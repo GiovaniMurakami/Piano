@@ -1,6 +1,6 @@
 # My Piano
 
-Little project to study HTML and CSS, and how to work with audios with JacaScript
+Little project to study HTML and CSS, and how to work with audios with JavaScript
 
 ## Run Locally
 
